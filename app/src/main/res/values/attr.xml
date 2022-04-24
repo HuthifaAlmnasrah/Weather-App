@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="dark_mode">
+        <attr name="activity_background" format="color"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_color_hint" format="color"/>
+        <attr name="FAB_color" format="color"/>
+        <attr name="dialog_bg" format="color"/>
+        <attr name="item_background" format="color"/>
+        <attr name="btn_txt_color" format="color"/>
+    </declare-styleable>
+</resources>

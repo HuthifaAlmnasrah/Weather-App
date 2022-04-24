@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WeatherApp/app/src/main/res/drawable/dialog_progress_background.xml" value="0.2703125" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_graphical_representation.xml" value="0.22592592592592592" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_map.xml" value="0.2513586956521739" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_settings.xml" value="0.4" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_show_weather.xml" value="0.25407608695652173" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/background.xml" value="0.22592592592592592" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/city_item.xml" value="0.4" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/day_info_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/day_into_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/list_item.xml" value="0.2513586956521739" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/no_connection_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/progress_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/WeatherApp/app/src/main/res/xml/security.xml" value="0.25407608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
